@@ -1,4 +1,4 @@
-# Vertex-Group-Mirror-Modifier
+# Vertex-Group-Mirror-Modifier-addon-for-Blender
 Mirror Modifier for Blender, using geometry nodes to restrict its effects to a set vertex group
 
 Use: Select a mesh, then go to Modifiers → Add Modifier → Generate → Mirror (Vertex Group). If the object has an active vertex group, it's picked automatically.
